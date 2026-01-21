@@ -1,0 +1,106 @@
+body{
+    background-color: white;
+    color:black;
+    margin-left: 2%;
+    margin-right: 20%;
+}
+
+nav,header,section,footer{
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+}
+.img-logo{
+    width: 50px;
+    height: 45px;
+}
+nav ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+
+}
+nav ul a{
+    text-decoration: none;
+    color: black;
+}
+nav ul li{
+    font-style: bold;
+}
+
+.img-profil{
+    width: 1400px;
+    height: auto;
+    margin-right: 10%;
+}
+
+.img-contact{
+    width: 600px;
+    height: auto;
+    margin-left: 40%;
+}
+
+.img-stoune{
+    width: 600px;
+    height: auto;
+    margin-left: 40%; 
+}
+
+.img-post{
+    width: 1000px;
+    height: auto;
+    margin-left: 20%;
+}
+
+post 
+
+nav{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+section ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 1px;
+    margin-left: 15%;
+}
+
+.img-maboul{
+    width: 300px;
+    height: 300px;
+    margin-left: 23.5%;
+}
+
+.img-annuel{
+    width: 300px;
+    height: 300px;
+    margin-left: 20%;
+}
+
+.img-lou{
+    width: 300px;
+    height: 300px;
+    margin-left: 20%;
+}
+
+.img-sncf{
+    width: 300px;
+    height: 300px;
+    margin-left: 20%;
+}
+
+
+footer{
+    margin-left: 55%;
+    color: grey;
+    font-size: 10px
+}
